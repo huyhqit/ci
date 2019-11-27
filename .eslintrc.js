@@ -20,4 +20,7 @@ module.exports = {
       },
     },
   ],
+  "rules": {
+    "no-import-assign": ["warning", "always"]
+  }
 }
